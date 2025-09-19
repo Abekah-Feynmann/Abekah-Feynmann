@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice </b>
   - [...](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>CS50's Introduction to Programming with Python</b>
-  - [Projects)](https://github.com/code50/212569155.git)
+  - [Projects](https://github.com/code50/212569155.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
