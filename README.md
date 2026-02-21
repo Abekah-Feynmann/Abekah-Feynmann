@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abekah! <br/><a href="https://github.com/Abekah-Feynmann/">Junior Developer</a> || <a href="https://www.linkedin.com/in/felix-arthur-950a93240/">Mathematics Educator</a></h1>
+<h1>Hi, I'm Abekah! <br/><a href="https://github.com/Abekah-Feynmann/">Developer</a> || <a href="https://www.linkedin.com/in/felix-arthur-950a93240/">Mathematics Educator</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
